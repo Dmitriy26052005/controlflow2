@@ -2,7 +2,7 @@ package ie.setu.controlflow
 
 import java.lang.Integer.parseInt
 
-fun main(args: Array<String>)
+fun main(vararg args: String)
 {
     maxOf(4, 6)
 
